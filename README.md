@@ -27,9 +27,25 @@
 ![Corpo E-mail Diretoria](https://user-images.githubusercontent.com/98194579/181138901-1eba8989-f574-4c8c-81f1-5b19e5761649.png)
 
 
-<h3>Diretoria</h3>
+<h3>Gerentes</h3>
 
 ![Corpo E-mail Gerentes](https://user-images.githubusercontent.com/98194579/181138928-eceb5499-a4b7-46cc-9aa9-697fbaf84545.png)
+
+<p>Os Indicadores em vermelho e verde indicam se as metas foram batidas, e junto desses e-mails sempre vão em anexo a planilha de vendas para os gerentes e as planilhas de rankings para a diretoria.</p>
+
+<h2>AVISO!</h2>
+
+<p>Se você utilizar o Jupyter Notebook ele funcionará normalmente apenas com as libs: </p>
+<ul>
+  <li>Pandas</li>
+  <li>win32.client</li>
+  <li>pathlib</li>
+</ul>
+<p>Mas, caso esteja utilizando qualquer outro editor de código você precisará ter instalado também a lib <b>openpyxl</b></p>
+
+<p>É isso, boas automações.</p>
+
+<h4>Desenvolvido por Rychard Mazarin</h4>
 
 
 
