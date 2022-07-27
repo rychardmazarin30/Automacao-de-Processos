@@ -13,8 +13,6 @@ email = pd.read_excel(r'Bases de Dados\Emails.xlsx')
 lojas = pd.read_csv(r'Bases de Dados\Lojas.csv', encoding='latin1', sep=';')
 vendas = pd.read_excel(r'Bases de Dados\Vendas.xlsx')
 
-# Passo 2 - Criar uma Tabela para cada Loja e Definir o dia do Indicador
-
 # Incluir Nome da loja em vendas
 vendas = vendas.merge(lojas, on='ID Loja')
 
