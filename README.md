@@ -23,6 +23,11 @@
 <p>Serão enviados 26 E-mails ao total, 25 para os respectivos gerentes de cada loja e um para a diretoria, abaixo os modelos dos e-mails:</p>
 
 <h3>Gerentes</h3>
-![Corpo do E-mail Gerentes](https://user-images.githubusercontent.com/98194579/181138612-6836d488-2d0c-4bfe-8adf-ea592155dc94.png)
+![Corpo E-mail Diretoria](https://user-images.githubusercontent.com/98194579/181138901-1eba8989-f574-4c8c-81f1-5b19e5761649.png)
+
 
 <h3>Diretoria</h3>
+![Corpo E-mail Gerentes](https://user-images.githubusercontent.com/98194579/181138928-eceb5499-a4b7-46cc-9aa9-697fbaf84545.png)
+
+
+
