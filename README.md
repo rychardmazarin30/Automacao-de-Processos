@@ -21,3 +21,8 @@
 <p>É muito Importante também que você crie uma pasta para Backup, você pode colocar o nome que desejar mas no código eu coloquei 'Backup Arquivos Lojas', então se caso mudar não se esqueça de mudar no código também </p>
 
 <p>Serão enviados 26 E-mails ao total, 25 para os respectivos gerentes de cada loja e um para a diretoria, abaixo os modelos dos e-mails:</p>
+
+<h3>Gerentes</h3>
+![Corpo do E-mail Gerentes](https://user-images.githubusercontent.com/98194579/181138612-6836d488-2d0c-4bfe-8adf-ea592155dc94.png)
+
+<h3>Diretoria</h3>
