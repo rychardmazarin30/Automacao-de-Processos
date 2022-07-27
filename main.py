@@ -4,7 +4,7 @@ import pandas as pd
 import win32com.client as win32 
 import pathlib
 
-# -- Caso utilize o Jupyter essas libs serão o suficiente, mas caso esteja usando algum outro -- 
+# -- Caso utilize o Jupyter essas libs serão o suficiente, mas caso esteja usando algum outro editor -- 
 # -- é importante que você tenha o openpyxl instalado para que o código funcione corretamente -- 
 
 # Importando as Bases de Dados
